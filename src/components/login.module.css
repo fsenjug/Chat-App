@@ -1,0 +1,25 @@
+.body {
+  background: #a09e9e;
+}
+.app {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.loginstyle {
+  background: black;
+}
+
+.loginform {
+  width: 40vh;
+  padding: 20px;
+  display: inline-block;
+}
+.wrapper {
+  padding: 20vh;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
